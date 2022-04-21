@@ -17,14 +17,14 @@ header {
 
 h1 {
     font-size: 24px;
-    color: #FF8984;
+    color: #ff8984;
 }
 
 p {
-    color: #FF8984;
+    color: #ff8984;
 }
 
-.p2 {
+.footer_text {
     text-align: center;
 }
 
